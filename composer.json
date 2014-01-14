@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "type": "project",
+    "description": "Project to learning patterns",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "extra": {
+
+    }
+}
